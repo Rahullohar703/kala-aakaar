@@ -11,7 +11,7 @@ const Footer = () => {
   };
 
   const socialLinks = [
-    { icon: Instagram, href: 'https://www.instagram.com/kala_aakaardesignstudio', label: 'Instagram' },
+    { icon: Instagram, href: 'https://www.instagram.com/ar.netra.sali/', label: 'Instagram' },
     { icon: Mail, href: 'mailto:kala.aakaardesign@gmail.com', label: 'Email' },
   ];
 
